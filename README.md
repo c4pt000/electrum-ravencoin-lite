@@ -1,3 +1,33 @@
+# electrum ravencoin-lite
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # 09-14-2021
 * only use radiocoin-qt or radiocoind for now (avoid electrum-radiocoin , electrum-dogecoin still need to iron out bugs)
 
