@@ -1,5 +1,10 @@
 # electrum ravencoin-lite
 
+
+![s1](https://raw.githubusercontent.com/c4pt000/electrum-ravencoin-lite/main/ravelcoin-lite-weak-image-1.png)
+
+![s1](https://raw.githubusercontent.com/c4pt000/electrum-ravencoin-lite/main/ravelcoin-lite-weak-image-2.png)
+
 <br>
 <br>
 <br>
